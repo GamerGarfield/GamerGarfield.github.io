@@ -9,3 +9,18 @@ html {
     background-attachment: fixed;
     background-size: cover;
 }
+
+footer {
+  font-size: 17px;
+  font-weight: normal;
+  font-family: Arial; 
+  text-align: center;
+}
+
+.contact a {
+  border: 3px solid white;
+  border-radius: 30px;
+  background: white;
+  font-size: 20px;
+  margin: 10px;
+}

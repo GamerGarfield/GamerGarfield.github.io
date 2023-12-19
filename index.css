@@ -8,12 +8,7 @@ header {
   font-family: Arial;
 
 .main {
-    border: 3px solid white;
-  border-radius: 30px;
-  background: white;
-  font-size: 20px;
-  margin: 10px;
-}
+
 
 html {
     background-image: url('websitebackground.jpg');
